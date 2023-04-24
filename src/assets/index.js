@@ -43,6 +43,10 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import gallery from "./gallery.png"
 import hotstar from "./hotstar.png"
+import foodordering from "./foodordering.png"
+import expensetracker from "./expensetracker.png"
+import todo from "./todo.png";
+
 
 import armanali from "./people/armanali.jpeg"
 import kirtanhadwani from "./people/kirtanhadwani.jpeg"
@@ -92,5 +96,7 @@ export {
   programming,
   sketching,
   music,
-
+  expensetracker,
+  foodordering,
+  todo,
 };
